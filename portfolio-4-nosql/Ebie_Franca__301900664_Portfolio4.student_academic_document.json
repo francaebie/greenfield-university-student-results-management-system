@@ -1,0 +1,40 @@
+{
+  "studentNumber": "GFU/2024/001",
+  "name": {
+    "first": "Ada",
+    "last": "Okafor"
+  },
+  "department": "Computer Science",
+  "academicSession": "2025/2026",
+  "semester": "First",
+  "courses": [
+    {
+      "courseCode": "CSC101",
+      "courseTitle": "Introduction to Computing",
+      "creditUnits": 3,
+      "courseworkScore": 32,
+      "examScore": 54,
+      "totalScore": 86,
+      "grade": "A"
+    },
+    {
+      "courseCode": "CSC205",
+      "courseTitle": "Database Fundamentals",
+      "creditUnits": 3,
+      "courseworkScore": 28,
+      "examScore": 46,
+      "totalScore": 74,
+      "grade": "B"
+    },
+    {
+      "courseCode": "CSC310",
+      "courseTitle": "Advanced Database Systems",
+      "creditUnits": 3,
+      "courseworkScore": 35,
+      "examScore": 57,
+      "totalScore": 92,
+      "grade": "A"
+    }
+  ],
+  "note": "Fictional academic record for database coursework only"
+}
